@@ -9,3 +9,6 @@ The Javascript code does not correctly print square sizes >= 10. Modify the file
 
 ## 2-sort.rb
 The Ruby code is supposed to sort integers in ascending order but fails to do so correctly. Modify the file so that the sorting is done as intended.
+
+## 3-user.py
+Fix the python code to make sure the password is encrypted and saved correctly and the password comparison works well.
