@@ -6,3 +6,6 @@ Modify this file so that `FizzBuzz` is printed for every number that is a multip
 
 ## 1-print_square.js
 The Javascript code does not correctly print square sizes >= 10. Modify the file to fix the bug.
+
+## 2-sort.rb
+The Ruby code is supposed to sort integers in ascending order but fails to do so correctly. Modify the file so that the sorting is done as intended.
