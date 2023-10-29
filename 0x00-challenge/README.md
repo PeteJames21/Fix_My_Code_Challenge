@@ -12,3 +12,6 @@ The Ruby code is supposed to sort integers in ascending order but fails to do so
 
 ## 3-user.py
 Fix the python code to make sure the password is encrypted and saved correctly and the password comparison works well.
+
+## 4-delete_dnodeint/
+Fix the C implementation of the doubly linked list so that node deletion is done correctly.
